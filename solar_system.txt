@@ -1,3 +1,5 @@
 Sun
 Earth
 Moon
+Jupiter
+Mars
